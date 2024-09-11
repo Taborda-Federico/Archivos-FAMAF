@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "08d4bba8371736d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9721d69930187dd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fee53381d4b61357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/Estados de un prceso.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4d0d5a4461c1b31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/VIRTUALIZACION DE LA CPU.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1717f5c0e0ebfd2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6037cfac4fd4c623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e22eb00b71444820",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ddb01c610c825e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#S",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30359725455669ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ee76744a6b87401",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e17f9b54d805684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb451fcf3a9e25f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/Estados de un prceso.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88c14b0ada20ae50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/Estados de un prceso.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7acafa85954b4792",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "785c2883cbbb00d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/Estados de un prceso.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir vista gráfica": false,
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "fee53381d4b61357",
+  "lastOpenFiles": [
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/Creación de procesos.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/Estados de un prceso.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/Sin nombre",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/VIRTUALIZACION DE LA CPU.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/paging and swapping.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/THE PROCESSTIP; USE TIME SHARING (AND SPACE SHARING).md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/THE ABSTRACTION;.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/Process API.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA/CAPÍTULO 3/Isomorfismos (algebra de Boole).md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA/CAPÍTULO 3/Alegrebra de boole.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA/CAPÍTULO 3/Álgebras de Boole y Reticulados.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA/CAPITULO 2/Posets.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA/CAPÍTULO 3/1. Reticulados como posets (o posets reticulados).md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA/Relaciones de orden.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA/CAPÍTULO 3/Complementados.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA/CAPÍTULO 3/Acotados.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA/CAPÍTULO 3/Reticulado Distributivo.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA/CAPÍTULO 3/Propiedades de un Reticulado.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA/CAPÍTULO 3/Reticulados.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA/CAPÍTULO 3/ISOMORFISMO RETICULADOS.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/SYSTEM CALLS",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/capturas/Captura desde 2024-09-04 21-11-14.png",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/SYSTEM CALLS/PIPE().md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/capturas/Captura desde 2024-09-04 21-13-40.png",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/SYSTEM CALLS/WAIT.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/capturas/Captura desde 2024-09-04 20-49-25.png",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/capturas/Captura desde 2024-09-04 19-47-01.png",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/capturas/Captura desde 2024-09-04 20-08-40.png",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/SYSTEM CALLS/System calls.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/capturas/Captura desde 2024-09-04 20-21-51.png",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/capturas/Captura desde 2024-09-04 19-53-26.png",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/capturas",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/SYSTEM CALLS/EXECVP().md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/capturas/Captura desde 2024-09-04 14-29-28.png",
+    "pen.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/capturas/Captura desde 2024-09-04 15-03-49.png",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/capturas/Captura desde 2024-09-04 15-08-18.png",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/capturas.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/SYSTEM CALLS/DUP2.md",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA",
+    "Sin título.canvas",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA/CAPÍTULO 3",
+    "Untitled.canvas",
+    "FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/INTRO A LA LOGICA/CAPITULO 2"
+  ]
+}

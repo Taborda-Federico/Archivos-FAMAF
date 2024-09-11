@@ -1,0 +1,10 @@
+mkdir nombre_de_la_serie
+cd nombre_de_la_serie
+for i in 10; do touch "fma_S01E${i}_es.srt"; done
+for file in *_es.srt; do mv "$file" "${file/_es.srt/.srt}"; done
+
+
+------9
+ffmpeg -i prueba.mp4 -ss 00:00:05 -t 00:00:50 -c copy prueba2.mp4
+
+ffmpeg -i voz.mp3 -i musica.mp3 -filter_complex "[0:a][1:a]amerge=inputs=2[a]" -map "[a]" -ac 2 output.mp3
