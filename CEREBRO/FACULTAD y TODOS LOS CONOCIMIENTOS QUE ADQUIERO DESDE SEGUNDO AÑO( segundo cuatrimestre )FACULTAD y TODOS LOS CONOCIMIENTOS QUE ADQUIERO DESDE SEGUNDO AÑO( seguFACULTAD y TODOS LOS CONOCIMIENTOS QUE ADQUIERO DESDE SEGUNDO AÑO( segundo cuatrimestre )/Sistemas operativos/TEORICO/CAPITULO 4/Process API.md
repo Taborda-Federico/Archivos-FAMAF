@@ -10,6 +10,6 @@ Aunque posponemos la discusión de una API de proceso real hasta un capítulo po
 
 • Estado: Generalmente hay interfaces para obtener alguna información de estado sobre un proceso también, como cuánto tiempo ha estado en ejecución, o en qué estado se encuentra.
 
-[[VIRTUALIZACION DE LA CPU]]
+[[FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/CAPITULO 4/VIRTUALIZACION DE LA CPU]]
 
 LO que entedi es que  el sistema debe proporcionar una serie de operaciones para manejar un proceso ya sea crear, destruir, etc.

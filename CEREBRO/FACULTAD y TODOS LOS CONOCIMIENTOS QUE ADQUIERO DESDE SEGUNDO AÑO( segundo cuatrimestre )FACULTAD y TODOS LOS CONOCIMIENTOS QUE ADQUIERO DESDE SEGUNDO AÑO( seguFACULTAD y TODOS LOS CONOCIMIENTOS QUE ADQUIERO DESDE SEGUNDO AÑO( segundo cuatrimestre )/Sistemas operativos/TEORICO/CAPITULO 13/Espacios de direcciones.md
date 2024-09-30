@@ -1,0 +1,11 @@
+Los espacios de direcciones es una abstraccion de la memoria fisica donde se guarda todo el estado de la memoria del programa en ejecución. Por ejemplo, el código del programa (las instrucciones) tiene que estar en algún lugar de la memoria, y por lo tanto están en el espacio de direcciones  (abstaccion generada por el sistema operativo). En realidad, el programa no está en la memoria en las direcciones físicas 0 a 16 KB, sino que está cargado en una o más direcciones físicas arbitrarias.decimos que está virtualizando la memoria, porque elprograma en ejecución piensa que está cargado en la memoria en una dirección particular(digamos 0) y tiene un espacio de direcciones potencialmente muy grande (digamos 32 bits o 64 bits); la realidad es bastante diferente. CUando  un programa hace una carga de memoria tenemos que asegurarnos de que es mamemoria no vaya directamente a la memoria fisica puesto que podria hacer desastres 
+
+
+goals:
+
+-Transpariencia: El sistema operativo debería implementar la memoria virtual de una manera que sea invisible para el programa en ejecución. Por lo tanto, el programa no debería ser consciente del hecho de que la memoria está virtualizada; en lugar de eso, el programa se comporta como si tuviera su propia memoria física privada.
+
+Eficiencia:El sistema operativo debe esforzarse por lograr que la virtualización sea lo más eficiente posible, tanto en términos de tiempo (es decir, nohacer que los programas se ejecuten mucho más lentamente) como de espacio (es decir, no utilizar demasiada memoria para las estructuras necesarias para respaldar la virtualización). 
+[[FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )FACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( seguFACULTAD y TODOS LOS CONOCIMIENTOS QUE ADQUIERO DESDE SEGUNDO AÑO( segundo cuatrimestre )/Sistemas operativos/TEORICO/CAPITULO 6/virtualizacion de la cpu|virtualizacion de la cpu]]
+Proteccion
+El sistema operativo debe asegurarse de proteger los procesos entre sí y al propio sistema operativo de los ataques

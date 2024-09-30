@@ -1,0 +1,6 @@
+[[PROBLEMA 2]]
+
+Un cambio de contexto es conceptualmente simple: todo lo que el SO tiene que hacer es guardar algunos valores de registros para el proceso quese esta ejecutando actualmente (en su stack de kernel, por ejemplo)  y restaurar algunos para el proceso que pronto se ejecutara
+Para guardar el contexto se ejecuta un condigo en asmbler que guarda los registros, el program counter y el puntero del stack de kernel, y se mueve al PC del proceso que se va a ejecutar.el kernel ingresa a la llamada al codigo de cambio en el contexto de un proceso (el que fue interrumpido) y regresa en el contexto de otro (el que pronto se ejecutara).
+Cuando se produce una interrupcion los registros del proceso son guardados directamente en el hardware,  utilizando el stack del kernel de ese proceso. El segundo es cuando
+el SO decide cambiar de A a B; en este caso, los registros del kernel son guardados explıcitamente por el software (es decir, el SO), pero esta vez en la memoria en la estructura del proceso.
